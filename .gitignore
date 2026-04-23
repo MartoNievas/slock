@@ -1,3 +1,4 @@
 slock
+config.h
 *.o
 *.out
